@@ -1,6 +1,6 @@
 /// <reference lib="webworker" />
 
-const CACHE_NAME = "#16";
+const CACHE_NAME = "#17";
 
 const resources = [
   "/halloween/index.html",
@@ -14,7 +14,7 @@ const resources = [
   "/halloween/assets/fillUnchecked.png",
   "/halloween/assets/font.otf",
   "/halloween/assets/gallery.png",
-  "/halloween/assets/index-0945878f.js",
+  "/halloween/assets/index-4d41ce65.js",
   "/halloween/assets/index-fb790112.css",
   "/halloween/assets/solutions/01.png",
   "/halloween/assets/solutions/06.png",
