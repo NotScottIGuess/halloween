@@ -14,7 +14,7 @@ const resources = [
   "assets/fillUnchecked.png",
   "assets/font.otf",
   "assets/gallery.png",
-  "assets/index-33b78290.js",
+  "assets/index-20c11962.js",
   "assets/index-fb790112.css",
   "assets/solutions/01.png",
   "assets/solutions/06.png",
