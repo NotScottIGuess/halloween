@@ -1,6 +1,6 @@
 /// <reference lib="webworker" />
 
-const CACHE_NAME = "#13";
+const CACHE_NAME = "#14";
 
 const resources = [
   "index.html",
